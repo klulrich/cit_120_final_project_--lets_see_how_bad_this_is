@@ -107,7 +107,7 @@ function Login(){
           window.alert("Wrong password. Try 'password'");
         }else{
           window.alert(
-            "You either used both incorrect name and password or you're just being a lazy turn and not typing anything at all..."
+            "You either used both incorrect name and password or you're just being a lazy turd and not typing anything at all..."
           );
         }
       }
